@@ -1,0 +1,134 @@
+var petaGA_AppCategory="App";var petaGA_AppAction_Installed="Installed";var petaGA_AudioCategory_Audio="Audio";var petaGA_eCardCategory_eCard="E-Card";var petaGA_FormCategory_Activist="Activist Form";var petaGA_FormCategory_Comment="Comment Form";var petaGA_FormCategory_Contest="Contest Form";var petaGA_FormCategory_DataCollect="Data Collect Form";var petaGA_FormCategory_Donate="Donation Form";var petaGA_FormCategory_eCard="E-Card Form";var petaGA_FormCategory_eNews="E-News Form";var petaGA_FormCategory_Feedback="Feedback Form";var petaGA_FormCategory_ForwardToAFriend="Forward to a Friend Form";var petaGA_FormCategory_LegislatorLookup="Legislator Lookup Form";var petaGA_FormCategory_Login="Login Form";var petaGA_FormCategory_Mobile="Mobile Form";var petaGA_FormCategory_NewsletterSubscription="Newsletter Subscription";var petaGA_FormCategory_Pack="Pack Form";var petaGA_FormCategory_Petition="Petition Form";var petaGA_FormCategory_Pledge="Pledge Form";var petaGA_FormCategory_Poll="Poll Form";var petaGA_FormCategory_Purchase="Purchase Form";var petaGA_FormCategory_Quiz="Quiz Form";var petaGA_FormCategory_Registration="Registration Form";var petaGA_FormCategory_Submission="Submission Form";var petaGA_FormCategory_TakeAction="Take Action Form";var petaGA_FormCategory_Volunteer="Volunteer Form";var petaGA_FormCategory_Wishlist="Wishlist Form";var petaGA_FormAction_Initiated="Form Initiated";var petaGA_FormAction_Submitted="Form Submitted";var petaGA_FormAction_LoadScript="Load Script";var petaGA_GameCategory_Game="Game";var petaGA_GenericCategory_TweetToTarget="Tweet to Target";var petaGA_GenericCategory_ClickToCall="Click to Call";var petaGA_GenericCategory_ResourceRequest="Resource Request";var petaGA_GenericAction_Clicked="Clicked";var petaGA_GenericAction_ClickThrough="Click Through";var petaGA_GenericAction_Closed="Closed";var petaGA_GenericAction_Complete="Complete";var petaGA_GenericAction_Download="Download";var petaGA_GenericAction_End="End";var petaGA_GenericAction_Play="Play";var petaGA_GenericAction_Pause="Pause";var petaGA_GenericAction_Receipt="Receipt/Pick-Up";var petaGA_GenericAction_Share="Share";var petaGA_GenericAction_Viewed="Viewed";var petaGA_GenericAction_LanguageSwitch="Switch Language";var petaGA_GenericAction_Saved="Post Saved";var petaGA_GenericAction_Unsaved="Post Unsaved";var petaGA_DownloadAction_Downloaded="Download";var petaGA_ImageCategory_Image="Image";var petaGA_InteractiveCategory_Interactive="Interactive";var petaGA_InteractiveAction_Scrolled="Scrolled";var petaGA_InteractiveAction_ReadMore="Read More";var petaGA_InteractiveAction_ReadLess="Read Less";var petaGA_Category_Scroll_Depth="Scroll Depth";var petaGA_Action_Scroll_Depth_25="25%";var petaGA_Action_Scroll_Depth_50="50%";var petaGA_Action_Scroll_Depth_75="75%";var petaGA_SubscriptionCategory_Newsletter="Newsletter Subscription";var petaGA_SubscriptionAction_Submitted="Form Submitted";var petaGA_SubscriptionAction_OptIn="Opt-In Confirmation";var petaGA_UICategory_Button="Button";var petaGA_UICategory_Menu="Menu";var petaGA_UICategory_Accordion="Accordion";var petaGA_UICategory_About="About";var petaGA_UICategory_List="List";var petaGA_UICategory_Menu="Menu";var petaGA_UICategory_Related_Articles="Related Articles";var petaGA_UICategory_Tags_Keywords="Tags Keywords";var petaGA_UICategory_Teaser="Teaser";var petaGA_UICategory_Home_Tile="Tile";var petaGA_UICategory_addthis="addthis";var petaGA_UICategory_Carousel="Carousel";var petaGA_FormAction_Upsell_Lightbox_View="Upsell Lightbox View";var petaGA_FormAction_Upsell_Lightbox_Close="Upsell Lightbox Close";var petaGA_FormAction_Upsell_Lightbox_Yes="Upsell Lightbox Monthly Click"
+var petaGA_FormAction_Upsell_Lightbox_No="Upsell Lightbox One Time Click"
+var petaGA_FormAction_Upsell_Lightbox_Donation_Amount="Upsell Lightbox Edit Donation Amount"
+var petaGA_LinkCategory_Link="Link";var petaGA_LinkCategoryDownloadFile="Download File";var petaGA_LinkCategory_Subscribe="Link";var petaGA_PDFCategory_PDF="PDF";var petaGA_DownloadCategory_PDF="PDF";var petaGA_SlideshowCategory_Slideshow="Slideshow";var petaGA_SlideshowAction_Auto="Slideshow Auto-play";var petaGA_SlideshowAction_Backward="Slideshow Backward";var petaGA_SlideshowAction_Forward="Slideshow Forward";var petaGA_SNsource_Facebook="Facebook";var petaGA_SNsource_Twitter="Twitter";var petaGA_SNsource_Digg="Digg";var petaGA_SNsource_StumbleUpon="StumbleUpon";var petaGA_SNsource_Reddit="Reddit";var petaGA_SNsource_Tumblr="Tumblr";var petaGA_SNsource_GooglePlus="Google+";var petaGA_SNsource_Pinterest="Pinterest";var petaGA_SNsource_WhatsApp="WhatsApp";var petaGA_SNsource_email="email";var petaGA_SNsource_pinterest_share="pinterest share";var petaGA_SNsource_linkedin="linkedin";var petaGA_SNsource_Telegram="Telegram";var petaGA_SplashCategory="Splash Page";var petaGA_UserGeneratedContentCategory="User Generated Content";var petaGA_VideoCategory_Video="Video";var petaGA_WordCategory_Word="Word Document";var petaGA_BWBCategory_Search="Cruelty Free Company Search";var petaGA_BWBSearchAction_Keyword="Keyword Search";var petaGA_BWBSearchAction_DoesNotTest="Does Not Test";var petaGA_BWBSearchAction_ProductType="Product Type";var petaGA_BWBSearchAction_Country="Country";var petaGA_BWBSearchAction_DoesTest="Does Test";var petaGA_BWBSearchAction_RegulatoryChange="Regulatory Change";var petaGA_BWBSearchAction_DisplayFilter="Display Filter";var petaGA_BWBSearchAction_AvailabilityFilter="Availability Filter";var petaGA_BWBSearchAction_ResultsPerPage="Results Per Page";var petaGA_BWBSearchAction_PageTransition="Page Transition";var petaGA_DECategory_Veganstart_Subscription="Veganstart Subscription";var petaGA_DECategory_Lifestyle_Tile="LifestyleTile";var petaGA_DECategory_Lifestyle="Lifestyle";var petaGA_DEAction_Petition_Form_Twitter="SM Twitter";var petaGA_DEAction_Petition_Form_Facebook="SM Facebook";var petaGA_DEAction_Petition_Form_WhatsApp="SM WhatsApp";var petaGA_DEAction_Petition_Form_Telegram="SM Telegram";var petaGA_Category_PageRedacted="Page Redacted";const analytics={event:{page_view:"page_view",img_ua_tracking:"img_ua_tracking",page_redacted:"page_redacted",form_start:"form_start_custom",form_submit:"form_submit_custom",share:"share",game_play:"game_play",game_replay:"game_replay",game_win:"game_win",game_lose:"game_lose",view_promotion:"view_promotion",close_promotion:"close_promotion",select_promotion:"select_promotion",page_click:"page_click",sign_up:"sign_up",enter_donation_amount:"enter_donation_amount",email_validation_error:"email_validation_error",form_expand:"form_expand",},param:{page_title:"page_title",page_location:"page_location",event_category:"event_category",event_action:"event_action",event_label:"event_label",is_interactive:"event_is_interactive",share_method:"method",share_action:"action",target:"target",Referrer_Url:"referrer_url",game_name:"game_name",element:"element",element_id:"element_id",form_id:"form_id",form_name:"form_name",form_destination:"form_destination",form_category:"form_category",form_type:"form_type",form_submit_text:"form_submit_text",form_label:"form_label",method:"method",value:"value",amount:"amount",peta_custom:"peta_custom",creative_name:"creative_name",creative_slot:"creative_slot",promotion_id:"promotion_id",promotion_name:"promotion_name",},debug:function(msg){if(!analyticsConfig.debugMode===true){return};console.debug(`*ANALYTICS DEBUGGING* ${msg}`)}}
+var petaGA_fileExtensions=new Array(".pdf",".doc",".docx",".png",".jpg",".jpeg",".gif",".mp3",".mp4");var petaGA_linkedDomains=new Array("81fur.com","allaboutanimals.org.uk","animalrahat.com","avianflu.cn","avianflu.hk","avianflu.in.th","bloodyburberry.com","bwvaktboom.com","canadasshame.com","chuaychangthai.com","columbiacruelty.com","compassionatecitizen.org","consumerdeception.com","covancecruelty.com","dkbunnybutcher.com","doanglershavesmallrods.com","helpthaielephants.com","iamscruelty.com","ingridnewkirk.com","islamicconcerns.com","jesusveg.com","kentuckyfriedcruelty.com","lettuceladies.com","marscandykills.com","mccruelty.com","meat.org","milkgonewild.com","namethatdriver.com","nesteacrueltea.com","nofur.hk","peta.nl","/(peta\.org)/","peta.org.au","peta.org.uk","peta.xxx","peta2.com","petaasiapacific.com","petacatalog.com","petaf.org.uk","petafoundation.org","petafrance.com","petaindia.com","petakids.com","petalatino.com","petamall.com","petatv.com","petavanguardsociety.com","petsmartcruelty.com","ringlingbeatsanimals.com","runningofthenudes.com","sharetheworld.org.uk","teachkind.org","unbearablecruelty.com","vegadvantage.com","wickedwildlifefund.com","shouldieatcheese.com");if(!String.prototype.includes){String.prototype.includes=function(search,start){'use strict';if(typeof start!=='number'){start=0;}
+if(start+search.length>this.length){return false;}else{return this.indexOf(search,start)!==-1;}};}
+function lookForFileExtension(url){if(typeof(url)!='string')return false;var currentFileExtension;for(var i=0;i<petaGA_fileExtensions.length;i++){currentFileExtension=petaGA_fileExtensions[i];if(url.indexOf(currentFileExtension)>0){return true;}}
+return false;}
+function lookForLinkedDomain(url){if(typeof(url)!='string')return false;var currentLinkedDomain;for(var i=0;i<petaGA_linkedDomains.length;i++){currentLinkedDomain=petaGA_linkedDomains[i];if(url.indexOf(currentLinkedDomain)>0&&url.indexOf(window.location.host)<=0){return true;}}
+return false;}
+function gaLinkListener(){var currentURL=this.href.toLowerCase();if(lookForFileExtension(currentURL)){if(currentURL.indexOf(".pdf")>0){sendEvent(petaGA_PDFCategory_PDF,petaGA_GenericAction_Download,currentURL);}
+else if(currentURL.indexOf(".png")>0||currentURL.indexOf(".jpg")>0||currentURL.indexOf(".jpeg")>0){sendEvent(petaGA_ImageCategory_Image,petaGA_GenericAction_Download,currentURL);}
+else if(currentURL.indexOf(".doc")>0||currentURL.indexOf(".docx")>0){sendEvent(petaGA_WordCategory_Word,petaGA_GenericAction_Download,currentURL);}
+else{sendEvent(petaGA_LinkCategoryDownloadFile,petaGA_GenericAction_Clicked,currentURL);}}
+else if(lookForLinkedDomain(currentURL)){var pageTracker=_gat._getTrackerByName();this.href=pageTracker._getLinkerUrl(this.href);}
+return false;}
+function addLinkEventListeners(){var allLinks=document.links;var currentURL;var fileExtensionFound=false;var linkedDomainFound=false;var linkAddListener;for(var i=0;i<allLinks.length;i++){currentURL=allLinks[i].href.toString().toLowerCase();fileExtensionFound=lookForFileExtension(currentURL);linkedDomainFound=lookForLinkedDomain(currentURL);if(fileExtensionFound==true||linkedDomainFound==true){linkAddListener=allLinks[i];if(linkAddListener.onclick){var originalOnclick=linkAddListener.onclick;linkAddListener.addEventListener("click",gaLinkListener,false);if(linkAddListener.addEventListener){linkAddListener.addEventListener("click",originalOnclick,false);}
+else if(linkAddListener.attachEvent){linkAddListener.attachEvent("click",originalOnclick,false);}}
+else{linkAddListener.addEventListener("click",gaLinkListener,false);}}}}
+function isUniversalAnalytics(){return(typeof(window.ga)!=='undefined');}
+function sendSocialEvent(socialNetwork,socialAction,socialTarget){if(isUniversalAnalytics()){ga('send','social',socialNetwork,socialAction,socialTarget);}
+else{}
+if(analyticsConfig.v4Property!==""){if(typeof(gtag)!=="undefined"){analytics.debug("sendSocialEvent v4\n - socialNetwork:"+socialNetwork+'\n - socialAction:'+socialAction+'\n - Target: '+socialTarget);sendEvent(analytics.event.share,{[`${analytics.param.share_method}`]:socialNetwork,[`${analytics.param.share_action}`]:socialAction,[`${analytics.param.target}`]:socialTarget});}}}
+function sendEvent(category,action,label,interactive){if(typeof(category)==='string'&&typeof(action)==='object'){googleV4SendEvent(category,action);return;}
+var isInteractive=true;if(interactive==null){if(action.toLowerCase()=="form initiated"||action.toLowerCase()=="form initiation"){isInteractive=false;}else if(category.toLowerCase()=="splash page"&&(action.toLowerCase()=="viewed"||action.toLowerCase()=="closed")){isInteractive=false;}}else{isInteractive=interactive;}
+if(typeof pageJson!=="undefined")
+{var externalReference8Mod=(pageJson.externalReference8||"").split("::")[0].trim();var pageID=(pageJson.campaignPageId||0);label=(label||"").split("|")[0]
++" (ID: "+(pageID+" "+externalReference8Mod).trim()+")";}
+if(isUniversalAnalytics()){if(isInteractive==true){ga('send','event',category,action,label);}
+else{ga('send','event',category,action,label,{nonInteraction:true});}}
+if(analyticsConfig.v4Property!==""){if(typeof(gtag)!=="undefined"){analytics.debug(`v4 event requested for:\n - Category: ${category}\n - Action: ${action} \n - Label: ${label}`);var v4Event=translateGAUniversalToV4(category,action,label);if(v4Event.eventName!=""){googleV4SendEvent(v4Event.eventName,v4Event.parameters)}
+else if(analyticsConfig.retainLegacyEvents){analytics.debug("No V4 event identified. Retaining legacy event.");googleV4SendEvent(analytics.event.img_ua_tracking,{[`${analytics.param.event_category}`]:category,[`${analytics.param.event_action}`]:action,[`${analytics.param.event_label}`]:label,[`${analytics.param.is_interactive}`]:isInteractive,});};}}}
+function sendEventWithTracker(category,action,label,trackerName){var isNonInteraction=false;if(action.toLowerCase()=="form initiated"||action.toLowerCase()=="form initiation"){isNonInteraction=true;}
+else if(category.toLowerCase()=="splash page"&&(action.toLowerCase()=="viewed"||action.toLowerCase()=="closed")){isNonInteraction=true;}
+if(isNonInteraction==false){ga(trackerName+'.send','event',category,action,label);}
+else{ga(trackerName+'.send','event',category,action,label,{nonInteraction:true});}}
+function sendEventWithValue(category,action,label,value){if(isUniversalAnalytics()){ga('send','event',category,action,label,value);}
+else{}}
+function sendPageView(trackingURL){if(trackingURL===undefined){if(isUniversalAnalytics()){ga('send','pageview');}}
+else{if(isUniversalAnalytics()){ga('send','pageview',trackingURL);}}}
+var petaPIIURL=(function(){var originalURL,redactedURL,piiRegex,maybeLoadRedactedURL,loadRedactedURL;originalURL=window.location.href;piiRegex=[{name:'EMAIL',regex:/[^\/=]*(@|(%40))[^\/&]*/gi,group:''},{name:'TEL',regex:/((tel=)|(telephone=)|(phone=)|(strPhone=)|(mobile=)|(mob=))[\d\+\s][^&\/\?]+/gi,group:'$1'},{name:'NAME',regex:/((firstname=)|(fname=)|(strFName=)|(lastname=)|(lname=)|(strLName=)|(surname=))[^&\/\?]+/gi,group:'$1'},{name:'PASSWORD',regex:/((password=)|(passwd=)|(pass=))[^&\/\?]+/gi,group:'$1'},{name:'CITY',regex:/(strCity=)[^&\/\?]+/gi,group:'$1'},{name:'COUNTRY',regex:/(strCountry=)[^&\/\?]+/gi,group:'$1'},{name:'ZIP',regex:/((postcode=)|(zipcode=)|(zip=)|(strZip=))[^&\/\?]+/gi,group:'$1'}];maybeLoadRedactedURL=function(){if('undefined'===typeof(redactedURL)){loadRedactedURL();}else{}};loadRedactedURL=function(){var newURL=decodeURI(originalURL);piiRegex.forEach(function(pii){newURL=newURL.replace(pii.regex,pii.group+'[REDACTED '+pii.name+']');});redactedURL=encodeURI(newURL);};return{getPIIRedactedURL:function(){maybeLoadRedactedURL();return redactedURL;},containsPII:function(){maybeLoadRedactedURL();if(redactedURL.includes('REDACTED')){return true;}else{return false;}}};})();function trackFileDownloads(){document.addEventListener('click',function(event){if(event.target.nodeName.toLowerCase()==='a'||event.target.parentElement.nodeName.toLowerCase()==='a'){var url=event.target.href||event.target.parentElement.href;if(lookForFileExtension(url)===true){sendEvent(petaGA_LinkCategoryDownloadFile,petaGA_GenericAction_Download,url);}}},true);}
+function pushStyleIntoHead(css){var head=document.head||document.getElementsByTagName('head')[0],style=document.createElement('style');head.appendChild(style);style.type='text/css';style.appendChild(document.createTextNode(css));}
+function pushScriptIntoHead(js){var head=document.head||document.getElementsByTagName('head')[0],script=document.createElement('script');head.appendChild(script);script.appendChild(document.createTextNode(js));}
+function antiFlicker(container,timeout){if(typeof(timeout)==='undefined'){timeout=3000;}
+console.log('Adding anti flicker for container '+container);var afStyle='.async-hide { opacity: 0 !important}';pushStyleIntoHead(afStyle);var afScript="(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date; "+
+"h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')}; "+
+"(a[n]=a[n]||[]).hide=h;setTimeout(function(){console.info('*I* AntiFlicker executed.');i();h.end=null},c);h.timeout=c; "+
+"})(window,document.documentElement,'async-hide','dataLayer',"+timeout+", "+
+"{'"+container+"':true});";pushScriptIntoHead(afScript);}
+function sendToGoogleAnalytics({name,delta,id}){ga('send','event',{eventCategory:'Web Vitals',eventAction:name,eventLabel:'Page Load',eventValue:Math.round(name==='CLS'?delta*1000:delta),nonInteraction:true,transport:'beacon',});}
+function trackCWV(){var script=document.createElement('script');script.src='https://resources.peta.org/googleAnalytics/global/web-vitals.iife.js';script.onload=function(){webVitals.getCLS(console.log);webVitals.getFID(console.log);webVitals.getLCP(console.log);webVitals.getCLS(sendToGoogleAnalytics);webVitals.getFID(sendToGoogleAnalytics);webVitals.getLCP(sendToGoogleAnalytics);}
+document.head.appendChild(script);}
+function translateGAUniversalCatActToV4EventName(category,action,label){if(category.toLowerCase()=="tipjar"){return 'tipjar_'+action.toLowerCase();}
+if(category.toLowerCase()=="remember me"){return 'remember_me_'+action.toLowerCase().replaceAll(" ","_");}
+if(action.toLowerCase()=="read more"||action.toLowerCase()=="expand petition text"){return analytics.event.form_expand;}
+if(action==petaGA_FormAction_Initiated){return analytics.event.form_start;}
+if(action==petaGA_FormAction_Submitted){return analytics.event.form_submit;}
+if(category==petaGA_Category_PageRedacted){return analytics.event.page_redacted;}
+if(category==petaGA_SplashCategory){if(action==petaGA_GenericAction_Viewed){return analytics.event.view_promotion;}
+if(action==petaGA_GenericAction_Closed){return analytics.event.close_promotion;}
+if(action==petaGA_GenericAction_Clicked){return analytics.event.select_promotion;}}
+if(category==petaGA_GameCategory_Game){if(action==petaGA_GenericAction_Play){return analytics.event.game_play;}
+if(action=="New Game"){return analytics.event.game_play;}
+if(action=="Replay"){return analytics.event.game_replay;}
+if(action=="Lose"||action.startsWith("Die")){return analytics.event.game_lose;}
+if(label=="Super Tofu Boy - Tofu Scramble: The Final Feat"||label=="Revenge of the PETA Tomatoes - Win Level 3"||label=="Revenge of the PETA Tomatoes - Win Level 3"||label=="MMA Cage Fight - Win Level 3"||label=="Mario Kills Tanooki - Win"||label=="J Lo Monster Fur - Win Level 3"||label=="Fast Food Nation - Win Level 6"||label=="New Super Chick Sisters - Win World 5")
+{return analytics.event.game_win;}
+if(action=="End"&&label=="Cooking Mama Game"){return analytics.event.game_win;}}
+if(action==petaGA_GenericAction_Clicked){return analytics.event.page_click;}
+if(action==petaGA_FormAction_Initiated){return analytics.event.form_start;}
+if(action==petaGA_FormAction_Submitted){return analytics.event.form_submit;}
+if(category.endsWith(" Form")&&action=="Interaction"){return analytics.event.page_click;}
+if(action=="Mobile Number Submitted"){return analytics.event.sign_up;}
+if(category==petaGA_DECategory_Veganstart_Subscription){return analytics.event.sign_up;}
+if(category==petaGA_SubscriptionCategory_Newsletter){return analytics.event.sign_up;}
+if(action=="Skip"){return analytics.event.page_click;}
+if(action==petaGA_GenericCategory_ClickToCall){return analytics.event.page_click;}
+if(action==petaGA_GenericCategory_TweetToTarget){return analytics.event.page_click;}
+if(action==petaGA_FormAction_Upsell_Lightbox_View){return analytics.event.view_promotion;}
+if(action==petaGA_FormAction_Upsell_Lightbox_Close){return analytics.event.close_promotion;}
+if(action.startsWith("Upsell Lightbox Edit Donation Amount")){return analytics.event.enter_donation_amount;}
+if(action.startsWith("Upsell Lightbox")&&action.endsWith(" Click")){return analytics.event.page_click;}
+if(category=="Email Validation Error"){return analytics.event.email_validation_error;}
+if(category==petaGA_UICategory_addthis){return analytics.event.share;}
+if(category==petaGA_GenericAction_Share){return analytics.event.share;}
+if(action.startsWith("SM ")){return analytics.event.share;}
+if((category==petaGA_LinkCategory_Link)&&(label.startsWith('Mobile Search')||label.startsWith('Mobile Menu'))){return analytics.event.page_click};return "";}
+function setEventParameters(eventName,category,action,label){var params={};if(eventName==analytics.event.share){params[`${analytics.param.method}`]=action.replaceAll("SM ","");}
+if(eventName==analytics.event.page_redacted){params[`${analytics.param.Referrer_Url}`]=window.document.referrer;}
+if(eventName.endsWith("_promotion")){var slot="";if(category==petaGA_SplashCategory){slot="splash_page";}
+else if(action.startsWith("Upsell ")){slot="upsell_lightbox";}
+else slot=category+'/'+action;params[`${analytics.param.creative_slot}`]=slot;params[`${analytics.param.creative_name}`]=label;}
+if(eventName.startsWith("game")){params[`${analytics.param.game_name}`]=label.split(' -')[0];}
+if(eventName==analytics.event.page_click){var element
+var element_id
+if(action==petaGA_GenericAction_Clicked){element=category;element_id=label;}
+if(category.endsWith(" Form")){element="field";if(label.includes(" Tab ")){element="tab";}
+element_id=label.replace(" Clicked","").replace("Click on ","");}
+if(action=="Skip"){element="button";element_id="skip";}
+if(action==petaGA_GenericCategory_ClickToCall||action==petaGA_GenericCategory_TweetToTarget){element="button";element_id=action.replaceAll(" ","_");}
+if(action.startsWith("Upsell Lightbox")&&action.endsWith(" Click")){element="button";element_id=action.replace(" Click","");}
+if((category==petaGA_LinkCategory_Link)&&(label.startsWith('Mobile Search')||label.startsWith('Mobile Menu'))){var parts=label.split(' ');element=parts[0]+"_"+parts[1];element_id=label.split('(')[0].trim();};params[`${analytics.param.element}`]=element.replaceAll(" ","_");params[`${analytics.param.element_id}`]=element_id.replaceAll(" ","_");}
+if(eventName.startsWith("form_")){params[`${analytics.param.peta_custom}`]="yes";params[`${analytics.param.form_label}`]=label;params[`${analytics.param.form_category}`]=category.replace(" Form","").replace(" ","_");}
+if(eventName==analytics.event.sign_up){var method="other"
+if(action=="Mobile Number Submitted"){method="mobile_optin_subscription"}
+if(category==petaGA_DECategory_Veganstart_Subscription){method="veganstart_subscription"}
+if(category==petaGA_SubscriptionCategory_Newsletter){method="newsletter_"+action.replace(" ","_");}
+params[`${analytics.param.method}`]=method;}
+if(eventName==analytics.event.enter_donation_amount){var slot=action.startsWith("Upsell")?"upsell_lightbox":"other";params[`${analytics.param.creative_slot}`]=slot;var amount="";if(action.startsWith("Upsell Lightbox Edit Donation Amount ")){amount=action.replace("Upsell Lightbox Edit Donation Amount ","")}
+params[`${analytics.param.amount}`]=amount;}
+return params}
+function translateGAUniversalToV4(category,action,label){var event={"eventName":"","parameters":{},}
+event.parameters.label=label;event.eventName=translateGAUniversalCatActToV4EventName(category,action,label);event.parameters=setEventParameters(event.eventName,category,action,label);if(event.eventname=="")return event;return event;}
+function googleV4SendEvent(eventName,eventParameters){var params={[`${analytics.param.page_title}`]:analyticsConfig.docTitle.toLowerCase(),[`${analytics.param.page_location}`]:analyticsConfig.docLocation.toLowerCase(),}
+var lowerParams={}
+for(var key in eventParameters){if(eventParameters.hasOwnProperty(key)){var val=(typeof(eventParameters[key])=='string')?eventParameters[key].toLowerCase():eventParameters[key];lowerParams[key.toLowerCase()]=val;}}
+params=Object.assign(params,lowerParams);analytics.debug(`Sending GA4 event:\n - Event Name: ${eventName}\n - Event parameters: ${JSON.stringify(eventParameters)}`)
+gtag('event',eventName.toLowerCase(),params);}
+var analyticsConfig={anonymizeIp:true,docLocation:document.location.href,docLocationRaw:document.location.href,docRedacted:false,docTitle:document.title,docTitleRaw:document.title,optimizeId:'',optimizeAntiFlicker:false,optimizeAntiFlickerDuration:3000,redactPII:true,retainLegacyEvents:false,sendPageView:true,uaObject:undefined,uaProperty:'',v4gtag:undefined,v4Property:'',}
+function insertGAScriptTag(scriptUrl){var firstScriptTag=document.getElementsByTagName("script")[0];var tag=document.createElement("script");tag.async=1;tag.src=scriptUrl;firstScriptTag.parentNode.insertBefore(tag,firstScriptTag);}
+if(!String.prototype.includes){String.prototype.includes=function(search,start){'use strict';if(search instanceof RegExp){throw TypeError('first argument must not be a RegExp');}
+if(start===undefined){start=0;}
+return this.indexOf(search,start)!==-1;};}
+function initializeAnalytics(config){if(typeof(config)==='undefined'){console.log('*E* Invalid Analytics Configuration');return config;}
+if(config.uaProperty===''&&config.v4Property===''){console.log('*E* No Analytics properties defined');return config;}
+if(typeof(config.debugMode)==='undefined'){var host=window.location.host.toLowerCase();var fullUri=window.location.href.toLowerCase();if(host.startsWith('dev')||host.startsWith('stage')||host.startsWith('staging')||host.startsWith('local')||host.includes('.local')||host.startsWith('127.0.0.1')||fullUri.includes("mode=demo")){config.debugMode=true;}}
+if(config.redactPII){if(typeof petaPIIURL==='object'&&petaPIIURL.containsPII()){config.docRedacted=true;config.docLocation=petaPIIURL.getPIIRedactedURL();config.docTitle='[PII REDACTED FROM PAGE URL]';}}
+if(config.v4Property!==''){if(config.debugMode===true){analytics.debug("INFO: Analytics debug mode enabled");}
+insertGAScriptTag("https://www.googletagmanager.com/gtag/js?id="+config.v4Property);window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);};gtag('js',new Date());var tagConfig={send_page_view:false,'anonymize_ip':config.anonymizeIp,}
+if(typeof(config.debugMode)!=="undefined"){tagConfig.debug_mode=config.debugMode;}
+gtag('config',config.v4Property,tagConfig);if(config.optimizeId!==''){insertGAScriptTag("https://www.googleoptimize.com/optimize.js?id="+config.optimizeId);}
+config.v4gtag=gtag;window.gtag=gtag;if(config.sendPageView){sendEvent(analytics.event.page_view,{})}
+if(config.docRedacted){analytics.info('*I* Page Details Redacted for Analytics');sendEvent(petaGA_Category_PageRedacted,"","",false);}}
+return config;}

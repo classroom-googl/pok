@@ -1,0 +1,147 @@
+{
+  "preloader": {
+    "files": [
+      {
+        "type": "atlas",
+        "key": "ui-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/ui-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/ui-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "win-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/win-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/win-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "treasurebox-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/treasurebox-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/treasurebox-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "topdown-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/topdown-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/topdown-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_transition-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_transition-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_transition-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_pikachu-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_pikachu-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_pikachu-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_ghetsis-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_ghetsis-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_ghetsis-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_cheren-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_cheren-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_cheren-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_ash-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_ash-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_ash-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_oshawott-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_oshawott-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_oshawott-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_profjuniper-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_profjuniper-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_profjuniper-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_tepig-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_tepig-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_tepig-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+      {
+        "type": "atlas",
+        "key": "animation_asset_snivy-atlas",
+        "textureURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_snivy-atlas.png",
+        "atlasURL": "https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/imgs/atlas/animation_asset_snivy-atlas.json",
+        "format": "TEXTURE_ATLAS_JSON_HASH"
+      },
+
+      {"type":"audio","key":"MusicBattle","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/MusicBattle.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/MusicBattle.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicBattle2","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/MusicBattle2.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/MusicBattle2.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicMain","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/MusicMain.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/MusicMain.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicMap","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/MusicMap.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/MusicMap.ogg"],"autoDecode":true},
+      {"type":"audio","key":"MusicWin","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/MusicWin.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/MusicWin.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundButtonPress","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundButtonPress.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundButtonPress.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundButtonRollover","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundButtonRollover.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundButtonRollover.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundChest","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundChest.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundChest.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundChestAppear","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundChestAppear.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundChestAppear.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundDialog","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundDialog.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundDialog.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundDialogReveal","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundDialogReveal.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundDialogReveal.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundDodge","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundDodge.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundDodge.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundError","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundError.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundError.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundPoison","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundPoison.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundPoison.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundStatDown","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundStatDown.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundStatDown.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundStatUp","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundStatUp.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundStatUp.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundSwitchPokemon","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundSwitchPokemon.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundSwitchPokemon.ogg"],"autoDecode":true},
+      {"type":"audio","key":"SoundTrap","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/SoundTrap.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/SoundTrap.ogg"],"autoDecode":true},
+      {"type":"audio","key":"79","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/79.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/79.ogg"],"autoDecode":true},
+      {"type":"audio","key":"98","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/98.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/98.ogg"],"autoDecode":true},
+      {"type":"audio","key":"111","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/111.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/111.ogg"],"autoDecode":true},
+      {"type":"audio","key":"65","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/65.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/65.ogg"],"autoDecode":true},
+      {"type":"audio","key":"80","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/80.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/80.ogg"],"autoDecode":true},
+      {"type":"audio","key":"93","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/93.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/93.ogg"],"autoDecode":true},
+      {"type":"audio","key":"117","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/117.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/117.ogg"],"autoDecode":true},
+      {"type":"audio","key":"131","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/131.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/131.ogg"],"autoDecode":true},
+      {"type":"audio","key":"183","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/183.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/183.ogg"],"autoDecode":true},
+      {"type":"audio","key":"49","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/49.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/49.ogg"],"autoDecode":true},
+      {"type":"audio","key":"66","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/66.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/66.ogg"],"autoDecode":true},
+      {"type":"audio","key":"153","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/153.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/153.ogg"],"autoDecode":true},
+      {"type":"audio","key":"85","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/85.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/85.ogg"],"autoDecode":true},
+      {"type":"audio","key":"124","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/124.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/124.ogg"],"autoDecode":true},
+      {"type":"audio","key":"143","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/143.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/143.ogg"],"autoDecode":true},
+      {"type":"audio","key":"48","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/48.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/48.ogg"],"autoDecode":true},
+      {"type":"audio","key":"61","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/61.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/61.ogg"],"autoDecode":true},
+      {"type":"audio","key":"76","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/76.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/76.ogg"],"autoDecode":true},
+      {"type":"audio","key":"75","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/75.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/75.ogg"],"autoDecode":true},
+      {"type":"audio","key":"123","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/123.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/123.ogg"],"autoDecode":true},
+      {"type":"audio","key":"148","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/148.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/148.ogg"],"autoDecode":true},
+      {"type":"audio","key":"59","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/59.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/59.ogg"],"autoDecode":true},
+      {"type":"audio","key":"43","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/43.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/43.ogg"],"autoDecode":true},
+      {"type":"audio","key":"51","url":["https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/mp3/51.mp3","https://cdn.jsdelivr.net/gh/classroom-googl/pok@main/assets/sound/ogg/51.ogg"],"autoDecode":true}
+    ]
+  },
+  "meta": {
+    "generated": "1548311514538",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}
